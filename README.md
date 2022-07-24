@@ -1,5 +1,5 @@
 # 💫 About Me:
-✍🏾 I'm currently working on: Igerencia<br>📚 I'm currently learning: Frameworks (Django ~ Frask)<br>📬 Ask me about: davidcaleb1998@hotmail.com
+✍🏾 I'm currently working on: [iGerencia](https://igerencia.com/) <br> 👨🏾‍💻 My position is Data Engineer. <br>📚 I'm currently learning: Frameworks (Django ~ Frask)<br>📬 Ask me about: davidcaleb1998@hotmail.com
 <br> 🤔 My philosophy is: COMMITMENT AND DISCIPLINE IS THE KEY TO SUCCESS.
 
 
