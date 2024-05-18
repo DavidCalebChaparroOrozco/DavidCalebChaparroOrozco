@@ -1,7 +1,7 @@
 # 💫 About Me:
 <br> 👨🏾‍💻 My position is Python Developer. 
 <br>📚 Currently delving into Frameworks like Django and Flask.
-<br>📬 Ask me about: davidcaleb1998@hotmail.com
+<br>📬 Feel free to reach out: davidcaleb1998@hotmail.com
 <br> 🤔 My philosophy is: "In commitment and discipline lie the seeds of accomplishment."
 
 ## 🌐 Socials:
