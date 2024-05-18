@@ -1,6 +1,6 @@
 # 💫 About Me:
 <br> 👨🏾‍💻 My position is Python Developer. 
-<br>📚 I'm currently learning: Frameworks (Django ~ Frask)
+<br>📚 Currently delving into Frameworks like Django and Flask.
 <br>📬 Ask me about: davidcaleb1998@hotmail.com
 <br> 🤔 My philosophy is: "In commitment and discipline lie the seeds of accomplishment."
 
@@ -17,8 +17,3 @@
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
-
----
-<a href="https://visitcount.itsvg.in">
-  <img src="https://visitcount.itsvg.in/api?id=DavidCalebChaparroOrozco&label=Profile%20Views&color=1&icon=5&pretty=false" />
-</a>
