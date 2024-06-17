@@ -5,7 +5,7 @@
 <br> 🤔 My philosophy is: "In commitment and discipline lie the seeds of accomplishment."
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/david-caleb-chaparro-orozco-32a128192/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/david-caleb-chaparro-orozco-32a128192/) 
 [![Kaggle](https://img.shields.io/badge/Kaggle-%230077B5.svg?logo=Kaggle&logoColor=white)](https://www.kaggle.com/davidcaleb)
 
 # 💻 Tech Stack:
