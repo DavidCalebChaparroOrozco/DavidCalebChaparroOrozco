@@ -1,5 +1,5 @@
 # 💫 About Me:
-<br> 👨🏾‍💻 My position is Python Developer. 
+<br> 👨🏾‍💻 My position is Data Scientist & ML Engineer. 
 <br>📚 Currently delving into Frameworks like Django and Flask.
 <br>📬 Feel free to reach out: davidcaleb1998@hotmail.com
 <br> 🤔 My philosophy is: "In commitment and discipline lie the seeds of accomplishment."
