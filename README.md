@@ -4,7 +4,6 @@
 
 *5+ years of experience designing, building, and deploying scalable AI solutions, computer vision pipelines, fraud detection platforms, full-stack applications, and end-to-end data architectures in production environments.*
 
-🌐 **Explore my Professional Portfolio:** [davidcalebchaparroorozco.github.io](https://davidcalebchaparroorozco.github.io)
 
 ---
 
