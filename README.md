@@ -1,6 +1,6 @@
 # Hi there, I'm David Caleb Chaparro Orozco! 👋
 
-### 🚀 Senior Data Scientist & ML Engineer
+### 🚀 Full Stack Software & Data & AI Engineer
 *5+ years of experience designing, building, and deploying scalable AI solutions, computer vision pipelines, fraud detection platforms, and end-to-end data architectures into production environments.*
 
 🌐 **Explore my Professional Portfolio:** [https://davidcalebchaparroorozco.github.io](https://davidcalebchaparroorozco.github.io)
